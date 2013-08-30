@@ -26,10 +26,7 @@
  * OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
  * IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
- // maybe it'll help... 
-#ifndef INCLUDE_LIBGENLOCK
-#define INCLUDE_LIBGENLOCK
-
+ 
 #include <cutils/log.h>
 #include <cutils/native_handle.h>
 #include <gralloc_priv.h>
